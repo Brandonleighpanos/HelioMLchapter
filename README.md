@@ -1,4 +1,4 @@
-# k-means analysis of Mg II k-line spectra
+# Using k-means to characterize Mg II spectral profiles during solar flares
 *by Brandon Panos*$^{1,2}$  
 
 1 *University of Applied Sciences and Arts Northwestern Switzer- land, Bahnhofstrasse 6, 5210 Windisch, Switzerland*  
@@ -6,7 +6,7 @@
 
 **----------------------------------------------------------------------------------------------------------------------------**
 
-The contents of this reposatory mirror the techniques used in the paper href="https://iopscience.iop.org/article/10.3847/1538-4357/aac779/meta">Panos et al, 2018, ApJ, 806, 14 </a>
+The contents of this repository mirror the techniques used in the paper href="https://iopscience.iop.org/article/10.3847/1538-4357/aac779/meta">Panos et al, 2018, ApJ, 806, 14 </a>
 
 ## Abstract
 
