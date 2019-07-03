@@ -1,5 +1,5 @@
 # Using k-means to characterize Mg II spectral profiles during solar flares
-*by Brandon Panos*$ ^{1,2}$  
+*by Brandon Panos*$^{1,2}$   
 
 1 *University of Applied Sciences and Arts Northwestern Switzer- land, Bahnhofstrasse 6, 5210 Windisch, Switzerland*  
 2 *University of Geneva, CUI-SIP, 1205 Geneva, Switzerland*
