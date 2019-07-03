@@ -6,7 +6,7 @@
 
 **----------------------------------------------------------------------------------------------------------------------------**
 
-The contents of this repository mirror the techniques used in the paper href="https://iopscience.iop.org/article/10.3847/1538-4357/aac779/meta">Panos et al, 2018, ApJ, 806, 14 </a>
+The contents of this repository mirror the techniques used in the paper <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aac779/meta">Panos et al, 2018, ApJ, 806, 14 </a>.
 
 ## Abstract
 
